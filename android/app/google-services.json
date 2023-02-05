@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299991525761",
+    "project_id": "homelymealsakanaraj",
+    "storage_bucket": "homelymealsakanaraj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299991525761:android:e3de8b53e38c67e74ea080",
+        "android_client_info": {
+          "package_name": "com.example.rentalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299991525761-9gjisnfpegfv3clblhmm1hso7ibpn9a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe9iCsokIGBAcUT7ewjyYat-9kk6440zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299991525761-9gjisnfpegfv3clblhmm1hso7ibpn9a2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
